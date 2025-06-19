@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>M Aish's CV</title>
+
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Single-page CV for Junior Frontend Developer showcasing skills, education, and experience.">
+  <meta name="keywords" content="Frontend Developer, CV, Resume, HTML, CSS, JavaScript">
+  <meta name="author" content="Your Name">
+
+  <!-- Open Graph Tags -->
+  <meta property="og:title" content="Your Name - Junior Frontend Developer">
+  <meta property="og:description" content="Single-page CV showcasing skills, education, and experience.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://yourdomain.com">
+  <meta property="og:image" content="https://yourdomain.com/og-image.jpg">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="cv_icon.png" type="image/x-icon">
+  
+</head>
+<body>
+  <header>
+    <strong>_____________________________________</strong> 
+    <h1>Mohammad Aish</h1>
+    <p><strong>Junior Frontend Developer</strong></p>
+    <address>
+      H#1/A,St#19 Your Street<br>
+      Lahore,Pakistan<br>
+      +92 324-4829046<br>
+      <a href="mailto:kamranaish@gmail.com">kamranaish12@example.com</a>
+    </address>
+  </header>
+
+  <main>
+    <section>
+      <h2>Skills</h2>
+      <p>HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design, Technical Writing, Presentation</p>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <p><strong>Aspire College,Lahore – ICS</strong><br>
+       2021 to 2023<br></p>
+    </section>
+    <section>
+      <h2>Across the Internet</h2>
+      <ul>
+        <li><a href="https://www.linkedin.com/in/muhammad-aish-458989192" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/yourusername" target="_blank">GitHub</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Your Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
